@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Miguel González 👋
 
 <!--
 **miguel7gl/miguel7gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
